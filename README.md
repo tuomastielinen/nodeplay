@@ -1,4 +1,4 @@
 nodeplay
 ========
 
-private node playgraound
+private node playground
