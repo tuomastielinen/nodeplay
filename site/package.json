@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tuomastielinen/nodeplay/issues"
   },
-  "homepage": "https://github.com/tuomastielinen/nodeplay"
+  "homepage": "https://github.com/tuomastielinen/nodeplay",
+  "dependencies": {
+    "express": "^4.8.2"
+  }
 }
