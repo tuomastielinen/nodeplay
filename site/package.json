@@ -1,22 +1,23 @@
 {
-  "name": "meadowlark",
-  "version": "0.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/tuomastielinen/nodeplay.git"
-  },
-  "author": "",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/tuomastielinen/nodeplay/issues"
-  },
-  "homepage": "https://github.com/tuomastielinen/nodeplay",
-  "dependencies": {
-    "express": "^4.8.2"
-  }
+    "name": "meadowlark",
+    "version": "0.0.0",
+    "description": "playground",
+    "main": "meadowlark.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tuomastielinen/nodeplay.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/tuomastielinen/nodeplay/issues"
+    },
+    "homepage": "https://github.com/tuomastielinen/nodeplay",
+    "dependencies": {
+        "express": "^4.8.2",
+        "express-handlebars": "^1.0.1"
+    }
 }
