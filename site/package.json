@@ -17,8 +17,11 @@
   },
   "homepage": "https://github.com/tuomastielinen/nodeplay",
   "dependencies": {
+    "body-parser": "^1.6.5",
     "express": "^4.8.2",
-    "express-handlebars": "^1.0.1"
+    "express-handlebars": "^1.0.1",
+    "formidable": "^1.0.15",
+    "jquery-file-upload-middleware": "^0.1.5"
   },
   "devDependencies": {
     "chai": "^1.9.1",
